@@ -5,7 +5,8 @@ body {
 table {
     background-color: #333;
     color: white;
-    border: rgb(249, 195, 20) 1px solid;
+    border: rgb(249, 195, 20) 2px solid;
+    cursor: pointer;
 }
 
 th {
@@ -14,4 +15,13 @@ th {
 
 tr:nth-child(3) {
     color: blue
+}
+
+tr:hover {
+    cursor: pointer;
+    background-color: #a1a1a1;
+}
+
+tr:active {
+    background-color: #af00af;
 }
