@@ -1,0 +1,17 @@
+body {
+    font-size: 35px;
+}
+
+table {
+    background-color: #333;
+    color: white;
+    border: rgb(249, 195, 20) 1px solid;
+}
+
+th {
+    width: 20rem;
+}
+
+tr:nth-child(3) {
+    color: blue
+}
