@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repositories.EFCore
+namespace Entities.Models
 {
-    internal class RepositoryContent
+    internal class Product
     {
     }
 }
