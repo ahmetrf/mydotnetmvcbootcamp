@@ -18,23 +18,5 @@ public class HomeController : Controller
 
         return View("Index", list);
     }
-
-    public IActionResult Privacy()
-    {
-        return View();
-    }
-    
-    public IActionResult GetProduct()
-    {
-        //var product = new Product();
-        //product.Id = 1;
-        //product.ProductName = "Computer";
-        //product.Price = 15000;
-
-        var product = new Product(2, "Laptop", 17000);
-
-        return View(product);
-    }
-
     
 }
