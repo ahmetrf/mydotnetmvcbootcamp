@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-01\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-02\\ProductApp\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-01\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-02\\ProductApp\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\arifu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-01\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-02\\ProductApp\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-01\\ProductApp\\ProductApp.csproj": {}
+    "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-02\\ProductApp\\ProductApp\\ProductApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-01\\ProductApp\\ProductApp.csproj": {
+    "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-02\\ProductApp\\ProductApp\\ProductApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-01\\ProductApp\\ProductApp.csproj",
+        "projectUniqueName": "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-02\\ProductApp\\ProductApp\\ProductApp.csproj",
         "projectName": "ProductApp",
-        "projectPath": "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-01\\ProductApp\\ProductApp.csproj",
+        "projectPath": "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-02\\ProductApp\\ProductApp\\ProductApp.csproj",
         "packagesPath": "C:\\Users\\arifu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-01\\ProductApp\\obj\\",
+        "outputPath": "C:\\Users\\arifu\\Desktop\\btk\\day1\\day-02\\ProductApp\\ProductApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
