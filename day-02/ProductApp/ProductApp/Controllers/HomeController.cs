@@ -36,14 +36,5 @@ public class HomeController : Controller
         return View(product);
     }
 
-    public IActionResult GetProducts()
-    {
-        var list = new List<Product>
-        {
-            new Product(1, "Ahmet", 123),
-            new Product(2, "Arif", 234),
-            new Product(3, "Ahmetoğlu", 345)
-        };
-        return View(list);
-    }
+    
 }

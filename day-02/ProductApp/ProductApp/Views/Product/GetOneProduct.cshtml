@@ -1,0 +1,15 @@
+﻿@model Product
+
+<div>
+    <h1>@Model.ProductName</h1>
+    <p>@Model.Price</p>
+    <a href="/home/index">@Model.Id</a>
+
+    <a
+        class="btn btn-success"
+        asp-controller="Home"
+        asp-action="Index"
+    >
+    Home
+    </a>
+</div>

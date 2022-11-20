@@ -10,4 +10,17 @@ foreach(var a in list)
 
 list.ForEach(aaa => Console.WriteLine(aaa));
 
+var aa = new List<object>
+{
+    1,
+    "ahmet",
+    "arif",
+    28,
+    {
+        "ahmet"
+    }
+};
+
+foreach (var i in aa) Console.WriteLine(i);
+
 Console.ReadKey();
